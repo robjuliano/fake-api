@@ -6,3 +6,5 @@ Consumo de dados, exclusão, e adição de informações
 Para inicializar use:
 
 npm start
+
+localhost:3003/cliente
